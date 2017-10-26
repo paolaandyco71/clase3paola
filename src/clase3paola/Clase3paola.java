@@ -5,9 +5,13 @@
  */
 package clase3paola;
 
-/**
- *
+/******************************************************************************
+ *Paola Bravo Cardenas
  * @author LAB03
+ *Fecha:Octubre 26 de 2017
+ * Programa: Clase3Paola
+ * Responsabilidad: Clase Principal
+ * *************************************************************************
  */
 public class Clase3paola {
 
